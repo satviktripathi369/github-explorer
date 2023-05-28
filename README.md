@@ -14,7 +14,7 @@ Data about user and projects are gathered via GitHub API.
 
 
 ```sh
-git clone https://github.com/jirihofman/portfolio.git
+git clone https://github.com/satviktripathi369/github-explorer.git
 cd portfolio
 ```
 
