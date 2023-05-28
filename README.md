@@ -2,7 +2,7 @@
 
 
 
-My personal portfolio website, built with [Next.js](https://nextjs.org/), [Tailwind CSS](https://tailwindcss.com/), and deployed to preview(https://vercel.com/). Some ideas borrowed from Jirihofmann (https://github.com/jirihofman).
+This website is built with [Next.js](https://nextjs.org/), [Tailwind CSS](https://tailwindcss.com/), and deployed to preview(https://vercel.com/). Some ideas borrowed from Jirihofman (https://github.com/jirihofman).
 
 Data about user and projects are gathered via GitHub API.
 
@@ -34,7 +34,7 @@ Then install dependencies and run the development server:
 ```sh
 # Install dependencies.
 npm install
-# Replace jirihofman's personal info with octocat's.
+# Replace my personal info with yours.
 npm run setup
 # Start hacking.
 npm dev
@@ -51,7 +51,7 @@ Please remove all of my personal information in `data.json` before deploying you
 
 IS_TEMPLATE=false
 ```
-in your ENVs to prevent `npm build` from reverting `data.json` back to Octocat's data.
+in your ENVs to prevent `npm build` from reverting `data.json` back to my previous data.
 
 ### To check before deploying
 - [ ] `data.json`: githubUsername, description, heroNames. Handled by `setup.mjs`.
