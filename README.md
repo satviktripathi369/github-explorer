@@ -1,10 +1,10 @@
-# 🔗 [portfolio-jirihofman.vercel.app](https://portfolio-jirihofman.vercel.app)
+# 🔗 [satvik-github-explorer-username.vercel.app](https://github-explorer-k436-2zj37fk89-satviktripathi369.vercel.app/)
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/import?repository-url=https%3A%2F%2Fgithub.com%2Fjirihofman%2Fportfolio&env=GH_TOKEN,VC_TOKEN)
 
-My personal portfolio website, built with [Next.js](https://nextjs.org/), [Tailwind CSS](https://tailwindcss.com/), ~~[Upstash](https://upstash.com)~~ and deployed to preview(https://vercel.com/). Based on [chronark's site](https://chronark.com/). Some ideas borrowed from [leerob/leerob.io](https://github.com/leerob/leerob.io).
 
-It is supposed to be used as a **template for other GitHub users' portfolios**. Data about user and projects are gathered via GitHub API.
+My personal portfolio website, built with [Next.js](https://nextjs.org/), [Tailwind CSS](https://tailwindcss.com/), and deployed to preview(https://vercel.com/). Some ideas borrowed from Jirihofmann (https://github.com/jirihofman).
+
+Data about user and projects are gathered via GitHub API.
 
 ## Tech stack
 - **Framework**: [Next.js](https://nextjs.org/)
@@ -19,7 +19,7 @@ cd portfolio
 ```
 
 
-Create a `.env` file similar to [`.env.example`](https://github.com/jirihofman/profile/blob/main/.env.example).
+Create a `.env` file similar to [`.env.example`].
 ```sh
 mv .env.example .env.local
 ```
