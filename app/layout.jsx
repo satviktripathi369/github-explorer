@@ -10,7 +10,7 @@ const displayName = data.displayName || username;
 /** @type {import('next').Metadata} */
 export const metadata = {
 	title: {
-		default: [username, '\'s portfolio'].join(""),
+		default: [username, '\'s GithubExplorer'].join(""),
 		template: "%s | " + data.displayName + "'s portfolio",
 	},
 	description: 'GitHub portfolio for ' + displayName,
